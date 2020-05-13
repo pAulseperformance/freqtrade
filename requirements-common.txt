@@ -33,7 +33,5 @@ colorama==0.4.3
 questionary==1.5.2
 prompt-toolkit==3.0.5
 
-# Requirements for front end
-django==3.0.6
 
 
