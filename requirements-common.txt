@@ -33,5 +33,7 @@ colorama==0.4.3
 questionary==1.5.2
 prompt-toolkit==3.0.5
 
+# Support for UI
+Flask-Cors==3.0.8  # For Cross-origin policy consuming api across different ports.
 
 
